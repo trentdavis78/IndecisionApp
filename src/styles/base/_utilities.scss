@@ -1,0 +1,224 @@
+.m {
+    &-s {
+        margin: $s-size;
+    }
+    &-m {
+        margin: $m-size;
+    }
+    &-l {
+        margin: $l-size;
+    }
+    &-xl {
+        margin: $xl-size;
+    }
+
+    &l {
+
+        &-s {
+            margin-left: $s-size;
+        }
+        &-m {
+            margin-left: $m-size;
+        }
+        &-l {
+            margin-left: $l-size;
+        }
+        &-xl {
+            margin-left: $xl-size;
+        }
+    }
+    &r {
+    
+        &-s {
+            margin-right: $s-size;
+        }
+        &-m {
+            margin-right: $m-size;
+        }
+        &-l {
+            margin-right: $l-size;
+        }
+        &-xl {
+            margin-right: $xl-size;
+        }
+    }
+    &x {
+        &-s {
+            margin-left: $s-size;
+            margin-right: $s-size;
+        }
+        &-m {
+            margin-left: $m-size;
+            margin-right: $m-size;
+        }
+        &-l {
+            margin-left: $l-size;
+            margin-right: $l-size;
+        }
+        &-xl {
+            margin-left: $xl-size;
+            margin-right: $xl-size;
+        }
+    }
+    &t {
+    
+        &-s {
+            margin-top: $s-size;
+        }
+        &-m {
+            margin-top: $m-size;
+        }
+        &-l {
+            margin-top: $l-size;
+        }
+        &-xl {
+            margin-top: $xl-size;
+        }
+    }
+    &b {
+    
+        &-s {
+            margin-bottom: $s-size;
+        }
+        &-m {
+            margin-bottom: $m-size;
+        }
+        &-l {
+            margin-bottom: $l-size;
+        }
+        &-xl {
+            margin-bottom: $xl-size;
+        }
+    }
+    &y {
+    
+        &-s {
+            margin-top: $s-size;
+            margin-bottom: $s-size;
+        }
+        &-m {
+            margin-top: $m-size;
+            margin-bottom: $m-size;
+        }
+        &-l {
+            margin-top: $l-size;
+            margin-bottom: $l-size;
+        }
+        &-xl {
+            margin-top: $xl-size;
+            margin-bottom: $xl-size;
+        }
+    }
+}
+.p {
+    &-s {
+        padding: $s-size;
+    }
+    &-m {
+        padding: $m-size;
+    }
+    &-l {
+        padding: $l-size;
+    }
+    &-xl {
+        padding: $xl-size;
+    }
+
+    &l {
+
+        &-s {
+            padding-left: $s-size;
+        }
+        &-m {
+            padding-left: $m-size;
+        }
+        &-l {
+            padding-left: $l-size;
+        }
+        &-xl {
+            padding-left: $xl-size;
+        }
+    }
+    &r {
+    
+        &-s {
+            padding-right: $s-size;
+        }
+        &-m {
+            padding-right: $m-size;
+        }
+        &-l {
+            padding-right: $l-size;
+        }
+        &-xl {
+            padding-right: $xl-size;
+        }
+    }
+    &x {
+        &-s {
+            padding-left: $s-size;
+            padding-right: $s-size;
+        }
+        &-m {
+            padding-left: $m-size;
+            padding-right: $m-size;
+        }
+        &-l {
+            padding-left: $l-size;
+            padding-right: $l-size;
+        }
+        &-xl {
+            padding-left: $xl-size;
+            padding-right: $xl-size;
+        }
+    }
+    &t {
+    
+        &-s {
+            padding-top: $s-size;
+        }
+        &-m {
+            padding-top: $m-size;
+        }
+        &-l {
+            padding-top: $l-size;
+        }
+        &-xl {
+            padding-top: $xl-size;
+        }
+    }
+    &b {
+    
+        &-s {
+            padding-bottom: $s-size;
+        }
+        &-m {
+            padding-bottom: $m-size;
+        }
+        &-l {
+            padding-bottom: $l-size;
+        }
+        &-xl {
+            padding-bottom: $xl-size;
+        }
+    }
+    &y {
+    
+        &-s {
+            padding-top: $s-size;
+            padding-bottom: $s-size;
+        }
+        &-m {
+            padding-top: $m-size;
+            padding-bottom: $m-size;
+        }
+        &-l {
+            padding-top: $l-size;
+            padding-bottom: $l-size;
+        }
+        &-xl {
+            padding-top: $xl-size;
+            padding-bottom: $xl-size;
+        }
+    }
+}
